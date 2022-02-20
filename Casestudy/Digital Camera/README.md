@@ -20,5 +20,7 @@ The memory controller is a digital circuit that manages the flow of data going t
 UART stands for Universal Asynchronous Receiver/Transmitter.UART's main purpose is to transmit and receive serial data.
 ## LCD Control
 In a digital camera, the LCD works for reviewing photos, displaying menu options and serving as a live viewfinder.
+## ISA Bus Interface
+(Industry Standard Architecture bus)An earlier hardware interface for connecting peripheral devices in PCs.
 ## LCD Display 
 It use to diplay the output. 
