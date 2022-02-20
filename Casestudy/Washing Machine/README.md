@@ -17,3 +17,5 @@ It is used for indicating the water level in the system.
 It is the memory unit of the system.
 ## Temperature Sensor 
 It is used to measure the temperature of water for the specfied operation selected in the options.
+## LCD Display
+It is used for displaying the operations performed by the system.
