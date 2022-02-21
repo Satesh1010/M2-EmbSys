@@ -1,3 +1,5 @@
+# Digital Camera
+## Block diagram
 ![Digital Camera (1)](https://user-images.githubusercontent.com/98962050/154842571-0ec5b614-ec61-4585-842f-376ee7c3de8e.jpg)
 
 ## Components Description
