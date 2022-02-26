@@ -8,7 +8,7 @@ This project automates the water supply for agricultural lands. It contains a so
 ## Low Level Requirement
 | LLR_ID | Description |Status|
 |--|--|--|
-| LLR_1 |  Can't loaded More Than the System Specifications|IMPLEMENTED|
+| LLR_1 |  Can't loaded More Than the System Specifications|TO BE IMPLEMENTED|
 |LLR_2|The System Can Operated in Night also which Results in Minimum Amount of the Water|TO BE IMPLEMENTED|
 |LLR_3|Irrigation Process Starts and Stops When Needed Hence it Optimize Energy Requirements|TO BE IMPLEMENTED|
 
