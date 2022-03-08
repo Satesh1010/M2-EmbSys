@@ -4,7 +4,7 @@
 Most of the people in residential areas face the problem of running out of water and overflow of water in water tanks due to excess supply of water. It becomes difficult for users to judge the level of water in water tanks. When the pump is turned ON, users will not realize that the water tank is filled, which may result in overflow. Water level indicator and controller system is used to sort out the issues associated with water tank. It is also possible to check the level of the water using sensor so that whenever the water goes below, pump gets turned ON automatically. Also when there is overflow of water in water tank it uses sensor to detect the water level so that if the water level goes above, the pump gets turned off automatically. This system prevents wastage of water.
 
  ## Features
- 1. Shows water level  in the tank.
+1. Shows water level  in the tank.
 2. Cut off water automatically.
 3. Consume very little energy ,ideal for continous operation.
 4. The system ensures no overflows or dry running of pump there by saves energy  and water.
@@ -12,7 +12,7 @@ Most of the people in residential areas face the problem of running out of water
 ## SWOT ANALYSIS
 
 ## Strengths
-1.conservation of water resource.  
+1.Conservation of water resource.  
 2.Manual effort reduction.
 
 ## Weakness
@@ -22,7 +22,7 @@ Maintanance is required.
 It is used in places like home,office,industry.
 ## Threats
 
-competitive due to more versions of Products.
+Competitive due to more versions of Products.
 ## 4W's and 1H
 
 ## Who
