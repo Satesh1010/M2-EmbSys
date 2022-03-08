@@ -14,12 +14,12 @@ Most of the people in residential areas face the problem of running out of water
 ### Strengths
 1.conservation of water resource.  
 2.Manual effort reduction.
-3.Easy to operate.
+
 ### Weakness
 Maintanance is required.
 ### Opportunities
 
-It is used in places like home,office,industry,etc...
+It is used in places like home,office,industry.
 ### Threats
 
 competitive due to more versions of Products.
@@ -36,7 +36,7 @@ It makes water tank fill and cut off water automatically.
 When the water level is low the tank fill automatic.
 ## Where
 
-This system can be used in any places like home,office,industry,etc...
+This system can be used in places like home,office,industry.
 ## Why
 To save water and save electricity.
 ## How
