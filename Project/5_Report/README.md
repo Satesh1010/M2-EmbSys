@@ -58,8 +58,7 @@ When the water level is low the tank fill automatic.
 ## Where
 
 This system can be used in places like home,office,industry.
-## Why
-To save water and save electricity.
+
 ## How
 
 The system controled by atmega328 which act as a brain.
