@@ -52,8 +52,8 @@ The system controled by atmega328 which act as a brain.
 ## LOW LEVEL REQUIREMENTS
 |ID |Description  |Status|
 |--|--|--|
-| LLR1 |If low level switch open before uplevel the water won't flow  |Implemented|
-|LLR2|The system works without errors|Implemented|
+| LLR1 |If low level switch open before uplevel the water won't flow  |IMPLEMENTED|
+|LLR2|The system works without errors|IMPLEMENTED|
 
 
 
