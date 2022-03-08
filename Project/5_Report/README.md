@@ -55,7 +55,7 @@ The system controled by atmega328 which act as a brain.
 | LLR1 |If low level switch open before uplevel the water won't flow  |IMPLEMENTED|
 |LLR2|The system works without errors|IMPLEMENTED|
 ## Behavourial Diagram
-
+![sssss](https://user-images.githubusercontent.com/98962050/157184789-801dbf84-8d48-4cab-9723-7bd17f1db6e4.jpg)
 # Components Discription:
 ## Atmega328
 It is the controlling device of the system.
