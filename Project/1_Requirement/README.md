@@ -12,9 +12,8 @@ Most of the people in residential areas face the problem of running out of water
 ## SWOT ANALYSIS
 
 ### Strengths
-1.conservation of water resource.  
+1.Conservation of water resource.  
 2.Manual effort reduction.
-
 3.Easy to operate.
 ### Weakness
 Maintanance is required.
