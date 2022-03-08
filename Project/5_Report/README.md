@@ -1,4 +1,25 @@
 ## Water Level Monitoring System using Atemga328
+## TABLE OF CONTENT
+|S.NO|CONTENTS|
+|--|--|
+ |1.|Automated Hand Sanitizing System|
+ |1.1|Abstract|
+ |1.2|Features|
+ |1.3|SWOT analysis|
+ |1.4|4W's and 1H|
+ |2.|Requirements|
+ |2.1|High Level Requirements|
+ |2.2|Low Level Requirements|
+ |3.|Block Diagram and Explanation|
+ |3.1|Block Diagram|
+ |3.2|Explanation|
+ |4.|Architecture|
+ |4.1|Behavioural Diagram|
+ |4.2|Structural Diagram|
+ |5.|Testplan and Output|
+ |5.1|High Level Testplan|
+ |5.2|Low Level Testplan|
+ |6.|Applications|
 ## ABSTRACT
 Most of the people in residential areas face the problem of running out of water and overflow of water in water tanks due to excess supply of water. It becomes difficult for users to judge the level of water in water tanks. When the pump is turned ON, users will not realize that the water tank is filled, which may result in overflow. Water level indicator and controller system is used to sort out the issues associated with water tank. It is also possible to check the level of the water using sensor so that whenever the water goes below, pump gets turned ON automatically. Also when there is overflow of water in water tank it uses sensor to detect the water level so that if the water level goes above, the pump gets turned off automatically. This system prevents wastage of water.
 
@@ -53,12 +74,8 @@ The system controled by atmega328 which act as a brain.
 |--|--|--|
 | LLR1 |If low level switch open before uplevel the water won't flow  |IMPLEMENTED|
 |LLR2|The system works without errors|IMPLEMENTED|
-## BEHAVOURIAL DIAGRAM
-![sssss](https://user-images.githubusercontent.com/98962050/157184789-801dbf84-8d48-4cab-9723-7bd17f1db6e4.jpg)
 ## BLOCK DIAGRAM
 ![sssss (2)](https://user-images.githubusercontent.com/98962050/157194300-1e29e6ba-6cab-4241-aea6-8f69274d2fa0.jpg)
-## STRUCTURAL DIAGRAM
-![sssss-Page-1](https://user-images.githubusercontent.com/98962050/157185059-9a6e4713-328e-4c8d-83b4-c6785ccab296.jpg)
 # COMPONENTS DISCRIPTION:
 ## Atmega328
 It is the controlling device of the system.
@@ -70,7 +87,12 @@ It is used to indicate the water flow.
 It is used to pump the water to the tank.
 ## Ultrasonic sensor
 It is used to sense the water level from the surface and top of the tank.
-## TEST PLAN
+## ARCHITECTURE
+## BEHAVOURIAL DIAGRAM
+![sssss](https://user-images.githubusercontent.com/98962050/157184789-801dbf84-8d48-4cab-9723-7bd17f1db6e4.jpg)
+## STRUCTURAL DIAGRAM
+![sssss-Page-1](https://user-images.githubusercontent.com/98962050/157185059-9a6e4713-328e-4c8d-83b4-c6785ccab296.jpg)
+## TEST PLAN AND OUTPUT
 ## HIGH LEVEL TEST PLAN
 | Test ID | Description | Exp I/P | Exp O/P |  Actual O/P|Status |
 |--|--|--|--|--|--|
@@ -82,8 +104,6 @@ It is used to sense the water level from the surface and top of the tank.
 |--|--|--|--|--|--|
 | LLR1 | LED Glows when UCC only open |NA|LED Glows|LED Glows|Pass|
 |LLR2|Level of water varies from 0L - 3000L|NA|varies from 0L - 3000L|varies from 0L - 3000L|Pass|
-## STIMULATION
-![Simulation](https://user-images.githubusercontent.com/98962050/157188315-fda87b4f-d1cf-40e0-8277-fab2538f5486.jpg)
 ## APPLICATION
 * The main aim of this system is to monitor the water level at rural areas so that they help in detecting the wastage of water and measures can be taken to avoid unnecessary overflowing of water in the areas where monitoring is a difficult task. 
 * The LED switches on when the particular water level is detected.
