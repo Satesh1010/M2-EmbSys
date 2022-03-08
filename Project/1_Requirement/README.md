@@ -13,6 +13,7 @@ Most of the people in residential areas face the problem of running out of water
 
 ### Strengths
 1.Easy to operate.
+
 2.Conservation of water resource.  
 3.Manual effort reduction.
 
