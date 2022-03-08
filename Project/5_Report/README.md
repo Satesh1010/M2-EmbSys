@@ -1,4 +1,3 @@
-﻿## Requirements
 ## Water Level Monitoring System using Atemga328
 ## ABSTRACT
 Most of the people in residential areas face the problem of running out of water and overflow of water in water tanks due to excess supply of water. It becomes difficult for users to judge the level of water in water tanks. When the pump is turned ON, users will not realize that the water tank is filled, which may result in overflow. Water level indicator and controller system is used to sort out the issues associated with water tank. It is also possible to check the level of the water using sensor so that whenever the water goes below, pump gets turned ON automatically. Also when there is overflow of water in water tank it uses sensor to detect the water level so that if the water level goes above, the pump gets turned off automatically. This system prevents wastage of water.
@@ -71,7 +70,7 @@ It is used to indicate the water flow.
 It is used to pump the water to the tank.
 ## Ultrasonic sensor
 It is used to sense the water level from the surface and top of the tank.
-﻿## TEST PLAN
+## TEST PLAN
 ## HIGH LEVEL TEST PLAN
 | Test ID | Description | Exp I/P | Exp O/P |  Actual O/P|Status |
 |--|--|--|--|--|--|
