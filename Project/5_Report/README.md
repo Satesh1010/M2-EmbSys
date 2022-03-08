@@ -112,7 +112,4 @@ It is used to sense the water level from the surface and top of the tank.
 * The LED switches on when the particular water level is detected.
 * Can be used in water tanks to control water levels.
 * Can be used in factories, commercial complexes, apartments, home.
-## PROJECT DONE BY
-|PS|NAME|
-|--|--|
-|99007661|Satesh S|
+
