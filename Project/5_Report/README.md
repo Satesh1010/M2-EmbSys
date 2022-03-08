@@ -59,7 +59,7 @@ The system controled by atmega328 which act as a brain.
 ## Block Diagram
 ![sssss (2)](https://user-images.githubusercontent.com/98962050/157194300-1e29e6ba-6cab-4241-aea6-8f69274d2fa0.jpg)
 ## Structural Diagram
-
+![sssss-Page-1](https://user-images.githubusercontent.com/98962050/157185059-9a6e4713-328e-4c8d-83b4-c6785ccab296.jpg)
 # Components Discription:
 ## Atmega328
 It is the controlling device of the system.
