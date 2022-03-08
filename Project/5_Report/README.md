@@ -83,6 +83,8 @@ It is used to sense the water level from the surface and top of the tank.
 |--|--|--|--|--|--|
 | LLR1 | LED Glows when UCC only open |NA|LED Glows|LED Glows|Pass|
 |LLR2|Level of water varies from 0L - 3000L|NA|varies from 0L - 3000L|varies from 0L - 3000L|Pass|
+Stimulation
+![Simulation](https://user-images.githubusercontent.com/98962050/157188315-fda87b4f-d1cf-40e0-8277-fab2538f5486.jpg)
 ## APPLICATION
 * The main aim of this system is to monitor the water level at rural areas so that they help in detecting the wastage of water and measures can be taken to avoid unnecessary overflowing of water in the areas where monitoring is a difficult task. 
 * The LED switches on when the particular water level is detected.
